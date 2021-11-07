@@ -1,0 +1,22 @@
+{
+   "FF_path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/",
+   "gro": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/BMI-PF6.mapped.gro"
+   },
+   "index": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/index.ndx"
+   },
+   "mdout": "mdout-BMI-PF6.mdp",
+   "mdp": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/Input/Emin/BMI-PF6.mdp"
+   },
+   "top": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/BMI-PF6.top"
+   },
+   "tpr": "BMI-PF6.tpr"
+}
+

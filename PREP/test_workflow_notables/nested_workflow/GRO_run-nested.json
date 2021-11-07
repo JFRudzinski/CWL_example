@@ -1,0 +1,63 @@
+{
+   "edr_name_Emin": "BMI-PF6.edr",
+   "edr_name_Prodrun": "BMI-PF6.edr",
+   "gro_file_Emin": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/BMI-PF6.mapped.gro"
+   },
+   "gro_file_Prodrun": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/BMI-PF6.mapped.gro"
+   },
+   "gro_out_name_Emin": "BMI-PF6.confout.gro",
+   "gro_out_name_Prodrun": "BMI-PF6.confout.gro",
+   "grout_name_Emin": "grout-BMI-PF6.mdp",
+   "grout_name_Prodrun": "grout-BMI-PF6.mdp",
+   "index_file_Emin": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/index.ndx"
+   },
+   "index_file_Prodrun": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/index.ndx"
+   },
+   "mdout_name_Emin": "mdout-BMI-PF6.mdp",
+   "mdout_name_Prodrun": "mdout-BMI-PF6.mdp",
+   "mdp_file_Emin": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/Input_notables/Emin/BMI-PF6.mdp"
+   },
+   "mdp_file_Prodrun": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/Input_notables/Prod_run/BMI-PF6.mdp"
+   },
+   "table_file_Emin": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/table.xvg"
+   },
+   "table_file_Prodrun": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/table.xvg"
+   },
+   "top_file_Emin": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/BMI-PF6.top"
+   },
+   "top_file_Prodrun": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/BMI-PF6.top"
+   },
+   "tpr_file_Emin": {
+      "class": "File",
+      "path": "BMI-PF6.tpr"
+   },
+   "tpr_file_Prodrun": {
+      "class": "File",
+      "path": "BMI-PF6.tpr"
+   },
+   "tpr_name_Emin": "BMI-PF6.tpr",
+   "tpr_name_Prodrun": "BMI-PF6.tpr",
+   "trr_name_Emin": "BMI-PF6.trr",
+   "trr_name_Prodrun": "BMI-PF6.trr"
+}
+

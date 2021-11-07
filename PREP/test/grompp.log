@@ -1,0 +1,70 @@
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f    BMI-PF6.mdp  Input        grompp input file with MD parameters
+ -po mdout-BMI-PF6.mdp  Output       grompp input file with MD parameters
+  -c BMI-PF6.mapped.gro  Input        Structure file: gro g96 pdb tpr etc.
+  -r       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr etc.
+ -rb       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr etc.
+  -n      index.ndx  Input, Opt!  Index file
+  -p    BMI-PF6.top  Input        Topology file
+ -pp  processed.top  Output, Opt. Topology file
+  -o    BMI-PF6.tpr  Output       Run input file: tpr tpb tpa
+  -t       traj.trr  Input, Opt.  Full precision trajectory: trr trj cpt
+  -e       ener.edr  Input, Opt.  Energy file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-[no]version bool   no      Print version info and quit
+-nice        int    0       Set the nicelevel
+-[no]v       bool   no      Be loud and noisy
+-time        real   -1      Take frame at or first after this time.
+-[no]rmvsbds bool   yes     Remove constant bonded interactions with virtual
+                            sites
+-maxwarn     int    0       Number of allowed warnings during input processing
+-[no]zero    bool   no      Set parameters for bonded interactions without
+                            defaults to zero instead of generating an error
+-[no]renum   bool   yes     Renumber atomtypes and minimize number of
+                            atomtypes
+
+
+Back Off! I just backed up mdout-BMI-PF6.mdp to ./#mdout-BMI-PF6.mdp.4#
+
+-------------------------------------------------------
+Program grompp, VERSION 4.5.3-dev-20101109-41d32cc
+Source code file: /sw/linux/gromacs/4.5/src/src/kernel/grompp.c, line: 1313
+
+Fatal error:
+BMI-PF6.top does not exist
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+
+"I Feel a Great Disturbance in the Force" (The Emperor Strikes Back)
+
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                God Rules Over Mankind, Animals, Cosmos and Such
+
+                  :-)  VERSION 4.5.3-dev-20101109-41d32cc  (-:
+
+        Written by Emile Apol, Rossen Apostolov, Herman J.C. Berendsen,
+      Aldert van Buuren, Pär Bjelkmar, Rudi van Drunen, Anton Feenstra, 
+        Gerrit Groenhof, Peter Kasson, Per Larsson, Pieter Meulenhoff, 
+           Teemu Murtola, Szilard Pall, Sander Pronk, Roland Schulz, 
+                Michael Shirts, Alfons Sijbers, Peter Tieleman,
+
+               Berk Hess, David van der Spoel, and Erik Lindahl.
+
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+            Copyright (c) 2001-2010, The GROMACS development team at
+        Uppsala University & The Royal Institute of Technology, Sweden.
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+             :-)  /sw/linux/gromacs/4.5/full/4.5.3/bin/grompp  (-:
+

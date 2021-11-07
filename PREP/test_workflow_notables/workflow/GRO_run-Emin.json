@@ -1,0 +1,33 @@
+{
+   "edr_name": "BMI-PF6.edr",
+   "gro_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/BMI-PF6.mapped.gro"
+   },
+   "gro_out_name": "BMI-PF6.confout.gro",
+   "grout_name": "grout-BMI-PF6.mdp",
+   "index_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/index.ndx"
+   },
+   "mdout_name": "mdout-BMI-PF6.mdp",
+   "mdp_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/Input_notables/Emin/BMI-PF6.mdp"
+   },
+   "table_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/table.xvg"
+   },
+   "top_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/BMI-PF6.top"
+   },
+   "tpr_file": {
+      "class": "File",
+      "path": "BMI-PF6.tpr"
+   },
+   "tpr_name": "BMI-PF6.tpr",
+   "trr_name": "BMI-PF6.trr"
+}
+

@@ -1,0 +1,15 @@
+{
+   "edr_name": "BMI-PF6.edr",
+   "gro_out_name": "BMI-PF6.confout.gro",
+   "mdout_name": "mdout-BMI-PF6.mdp",
+   "table_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/table.xvg"
+   },
+   "tpr_file": {
+      "class": "File",
+      "path": "BMI-PF6.tpr"
+   },
+   "trr_name": "BMI-PF6.trr"
+}
+

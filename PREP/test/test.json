@@ -1,0 +1,11 @@
+{
+   "gro_out": "BMI-PF6.confout.gro",
+   "table": true,
+   "tableb": true,
+   "tpr": {
+      "class": "File",
+      "path": "BMI-PF6.tpr"
+   },
+   "trr": "BMI-PF6.trr"
+}
+

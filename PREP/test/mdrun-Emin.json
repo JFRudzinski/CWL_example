@@ -1,0 +1,112 @@
+{
+   "FF_path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/",
+   "edr": "BMI-PF6.edr",
+   "gro_out": "BMI-PF6.confout.gro",
+   "mdout": "mdout-BMI-PF6.mdp",
+   "table": true,
+   "tableb": true,
+   "tables": [
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I1_I1.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I1_I2.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I1_I3.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I1_CT.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I1_PF.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I2_I2.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I2_I3.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I2_CT.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I2_PF.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I3_I3.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I3_CT.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_I3_PF.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_CT_CT.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_CT_PF.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_PF_PF.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_b0.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_b1.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_b2.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_b3.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_a0.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_a1.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_a2.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_a3.xvg"
+      },
+      {
+         "class": "File",
+         "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF/table_a4.xvg"
+      }
+   ],
+   "tpr": {
+      "class": "File",
+      "path": "BMI-PF6.tpr"
+   },
+   "trr": "BMI-PF6.trr"
+}
+

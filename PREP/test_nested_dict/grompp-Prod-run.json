@@ -1,0 +1,21 @@
+{
+   "gro_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/BMI-PF6.mapped.gro"
+   },
+   "grout_name": "grout-BMI-PF6.mdp",
+   "index_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/index.ndx"
+   },
+   "mdp_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/Input_notables/Prod_run/BMI-PF6.mdp"
+   },
+   "top_file": {
+      "class": "File",
+      "path": "/data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/FF_notables/BMI-PF6.top"
+   },
+   "tpr_name": "BMI-PF6.tpr"
+}
+

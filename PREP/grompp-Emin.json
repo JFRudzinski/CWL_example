@@ -1,0 +1,28 @@
+{
+    "bin": "/sw/linux/gromacs/4.5/full/4.5.3/bin",
+    "sys": "BMI-PF6",
+    "mdp": {
+        "class": "FILE",
+        "path": "${sys}.mdp"
+    },
+    "gro": { 
+        "class": "FILE",
+        "path": "${sys}.mapped.gro"
+    },
+    "top": { 
+        "class": "FILE",
+        "path": "${sys}.top"
+    },
+    "index": {
+        "class": "FILE",
+        "path": "index.ndx"
+    },
+    "tpr": { 
+        "class": "FILE",
+        "path": "${sys}.tpr"
+    },
+    "mdout": {
+        "class":"FILE",
+        "path": "mdout-${sys}.mdp"
+    }
+}
