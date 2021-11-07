@@ -39,7 +39,7 @@ outputs:
 
 steps:
   grompp:
-    run: /data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/test_workflow_notables/single_jobs_Emin/grompp.cwl
+    run: ../single_jobs_Emin/grompp.cwl
     in:
       mdp_file: mdp_file
       gro_file: gro_file
@@ -50,7 +50,7 @@ steps:
     out: [tpr_file, grout_file]
 
   mdrun:
-    run: /data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/test_workflow_notables/single_jobs_Emin/mdrun.cwl
+    run: ../single_jobs_Emin/mdrun.cwl
 
     in:
       tpr_file: grompp/tpr_file
