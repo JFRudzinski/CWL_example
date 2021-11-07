@@ -71,7 +71,7 @@ outputs:
 
 steps:
   GRO_run_Emin:
-    run: /data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/test_workflow_notables/workflow/GRO_run.cwl
+    run: ../workflow/GRO_run.cwl
     in:
       mdp_file: mdp_file_Emin
       gro_file: gro_file_Emin
@@ -87,7 +87,7 @@ steps:
     out: [tpr_file, grout_file, trr_file, gro_out_file, edr_file, mdout_file]
 
   GRO_run_Prodrun:
-    run: /data/bee14/rudzinski/cluster_tmp_ext/FAIRmat/CWL_example/test_workflow_notables/workflow/GRO_run.cwl
+    run: ../workflow/GRO_run.cwl
     in:
       mdp_file: mdp_file_Prodrun
       gro_file: gro_file_Prodrun
